@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-ShowCaseLecturePavillion-0.1.0";
 const contentToCache = [
-    "Build/WebGL NetCode.loader.js",
-    "Build/WebGL NetCode.framework.js",
-    "Build/WebGL NetCode.data",
-    "Build/WebGL NetCode.wasm",
+    "Build/Client.loader.js",
+    "Build/Client.framework.js",
+    "Build/Client.data",
+    "Build/Client.wasm",
     "TemplateData/style.css"
 
 ];
